@@ -1,0 +1,191 @@
+{
+    "objectId": "126767486",
+    "system": 1,
+    "couponId": "19266455802",
+    "registrationTime": 1691346141,
+    "betTypeName": "Sport",
+    "betState": "Lose",
+    "calculated": true,
+    "betSum": 46.0,
+    "winSum": 0.0,
+    "bonusAccountBetSum": 0.0,
+    "bonusAccountWinSum": 0.0,
+    "extra": {
+        "betMode": "Coupon",
+        "bonusBet": "0",
+        "couponType": "Odinar",
+        "systemParam": 0,
+        "couponK": 2.3,
+        "couponOriginalK": 2.3,
+        "regCode": "19266455802",
+        "sport": "29086",
+        "betCount": 1
+    },
+    "result": "couponInfo",
+    "header": {
+        "betTypeName": "sport",
+        "regId": "19266455802",
+        "version": "18014593630",
+        "state": "lose",
+        "checkCode": "M7-LU-12",
+        "currency": "rub",
+        "sum": 4600,
+        "bonusAccountSum": 0,
+        "originalK": 2.3,
+        "regTime": 1691346141,
+        "clientId": 17618620,
+        "clientIp": "87.241.189.134",
+        "calcTime": 1691347192,
+        "outcome": 0,
+        "bonusAccountOutcome": 0
+    },
+    "body": {
+        "kind": "single",
+        "extId": "6730976454",
+        "bets": [
+            {
+                "factorValue": 2.3,
+                "stakeName": "\u041f\u043e\u0431 1",
+                "factorId": 921,
+                "result": "lose",
+                "score": "10:11",
+                "resultScore": "12:16",
+                "sportId": 29086,
+                "sportName": "\u041a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442",
+                "segmentId": 90966,
+                "eventName": "LIVE 10:11 3-\u044f \u043a\u0430\u0440\u0442\u0430 Nouns \u2013 Bad News Eagles",
+                "eventId": 41790641,
+                "live": true,
+                "eventStartTime": 1691335800
+            }
+        ]
+    }
+}
+
+{
+    "objectId": "126756722",
+    "system": 1,
+    "couponId": "19265813233",
+    "registrationTime": 1691345162,
+    "betTypeName": "Sport",
+    "betState": "Win",
+    "calculated": true,
+    "betSum": 50.0,
+    "winSum": 92.0,
+    "bonusAccountBetSum": 0.0,
+    "bonusAccountWinSum": 0.0,
+    "extra": {
+        "betMode": "Coupon",
+        "bonusBet": "0",
+        "couponType": "Odinar",
+        "systemParam": 0,
+        "couponK": 1.83,
+        "couponOriginalK": 1.83,
+        "regCode": "19265813233",
+        "sport": "4",
+        "betCount": 1
+    },
+    "result": "couponInfo",
+    "header": {
+        "betTypeName": "sport",
+        "regId": "19265813233",
+        "version": "18099017489",
+        "state": "win",
+        "checkCode": "ZK-18-VB",
+        "currency": "rub",
+        "sum": 5000,
+        "bonusAccountSum": 0,
+        "originalK": 1.83,
+        "regTime": 1691345162,
+        "clientId": 17618620,
+        "clientIp": "87.241.189.134",
+        "calcTime": 1691530765,
+        "outcome": 9200,
+        "bonusAccountOutcome": 0
+    },
+    "body": {
+        "kind": "single",
+        "extId": "6730897904",
+        "bets": [
+            {
+                "factorValue": 1.83,
+                "stakeName": "\u041f\u043e\u0431 1",
+                "factorId": 921,
+                "result": "win",
+                "resultScore": "2:0",
+                "sportId": 4,
+                "sportName": "\u0422\u0435\u043d\u043d\u0438\u0441",
+                "segmentId": 20785,
+                "eventName": "\u0414\u0435 \u041c\u0438\u043d\u0430\u0443\u0440 \u0410 \u2013 \u041d\u043e\u0440\u0440\u0438 \u041a",
+                "eventId": 41785365,
+                "live": false,
+                "eventStartTime": 1691524200
+            }
+        ]
+    }
+}
+
+{
+    "objectId": "126755845",
+    "system": 1,
+    "couponId": "19265765897",
+    "registrationTime": 1691345103,
+    "betTypeName": "Sport",
+    "betState": "Sold",
+    "calculated": true,
+    "betSum": 50.0,
+    "winSum": 46.0,
+    "bonusAccountBetSum": 0.0,
+    "bonusAccountWinSum": 0.0,
+    "extra": {
+        "betMode": "Coupon",
+        "bonusBet": "0",
+        "couponType": "Odinar",
+        "systemParam": 0,
+        "couponK": 1.8,
+        "couponOriginalK": 1.8,
+        "regCode": "19265765897",
+        "sport": "4",
+        "betCount": 1
+    },
+    "result": "couponInfo",
+    "header": {
+        "betTypeName": "sport",
+        "regId": "19265765897",
+        "version": "18017896311",
+        "state": "sold",
+        "checkCode": "4W-88-8X",
+        "currency": "rub",
+        "sum": 5000,
+        "bonusAccountSum": 0,
+        "originalK": 1.8,
+        "regTime": 1691345103,
+        "clientId": 17618620,
+        "clientIp": "87.241.189.134",
+        "calcTime": 1691352589,
+        "outcome": 4600,
+        "bonusAccountOutcome": 0,
+        "soldTime": 1691346059
+    },
+    "body": {
+        "kind": "single",
+        "extId": "6730892263",
+        "bets": [
+            {
+                "factorValue": 1.8,
+                "stakeName": "\u041f\u043e\u0431 2",
+                "factorId": 923,
+                "result": "win",
+                "resultScore": "0:2",
+                "sportId": 4,
+                "sportName": "\u0422\u0435\u043d\u043d\u0438\u0441",
+                "segmentId": 17225,
+                "eventName": "\u0421\u0430\u043a\u043a\u0430\u0440\u0438 \u041c \u2013 \u0413\u0430\u0443\u0444\u0444 \u041a",
+                "eventId": 41781583,
+                "live": false,
+                "eventStartTime": 1691346900
+            }
+        ]
+    }
+}
+

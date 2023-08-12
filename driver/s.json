@@ -1,0 +1,51 @@
+{
+  "method": "Network.requestWillBeSent",
+  "params": {
+    "documentURL": "https://www.pari.ru/account/history/bets",
+    "frameId": "969B1C3C60A9D524E1FF644BBA3688AF",
+    "hasUserGesture": true,
+    "initiator": {
+      "stack": {
+        "callFrames": [
+          {"columnNumber": 1484717,
+            "functionName": "n.internalRequest",
+            "lineNumber": 0,
+            "scriptId": "15",
+            "url": "https://origin.pb06e2-resources.com/webStaticPB/fon/static/4.28.0/main.js"
+          },
+          {
+            "columnNumber": 1485620,
+            "functionName": "n.createProcess",
+            "lineNumber": 0,
+            "scriptId": "15",
+            "url": "https://origin.pb06e2-resources.com/webStaticPB/fon/static/4.28.0/main.js"
+          },
+          {
+            "columnNumber": 2806261,
+            "functionName": "",
+            "lineNumber": 0,
+            "scriptId": "15",
+            "url": "https://origin.pb06e2-resources.com/webStaticPB/fon/static/4.28.0/main.js"
+          },
+          {
+            "columnNumber": 69764,
+            "functionName": "k.<computed>",
+            "lineNumber": 0, "scriptId": "12", "url": "https://origin.pb06e2-resources.com/webStaticPB/header/1.1.12/footer.js"},
+          {"columnNumber": 69493, "functionName": "S", "lineNumber": 0, "scriptId": "12", "url": "https://origin.pb06e2-resources.com/webStaticPB/header/1.1.12/footer.js"},
+          {"columnNumber": 69552, "functionName": "w", "lineNumber": 0, "scriptId": "12", "url": "https://origin.pb06e2-resources.com/webStaticPB/header/1.1.12/footer.js"}
+        ]},
+      "type": "script"
+    },
+    "loaderId": "CF1222029F99916C3E8A8FF99E3A23E3",
+    "redirectHasExtraInfo": false,
+    "request": {
+      "hasPostData": true,
+      "headers": {
+        "Content-Type": "text/plain;charset=UTF-8", "Referer": "https://www.pari.ru/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/115.0.5790.170 Safari/537.36", "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"HeadlessChrome\";v=\"115\", \"Chromium\";v=\"115\"", "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": "\"Windows\""
+      },
+      "initialPriority": "High",
+      "isSameSite": false,
+      "method": "POST",
+      "mixedContentType": "none",
+      "postData": "{\"loginIdent\":\"+79852404490\",\"loginMethod\":\"phone\",\"sign\":\"1f2a4e4c7c83901c69d2b491313346df556ada69790fd90574c5883e78c7e9767aaff82e2be5cf9d2ae85bd358306c4c07f5e0da85082e6b3ee88b4136a5ceef\",\"deviceId\":\"50045786E4EC4D494C53F0BCC1322AC8\",\"random\":\"0.8866951224489175 :)\",\"timestamp\":\"2023-08-07 18:38:32\",\"appVersion\":\"4.28.0\",\"sysId\":1,\"lang\":\"ru\"}", "postDataEntries": [{"bytes": "eyJsb2dpbklkZW50IjoiKzc5ODUyNDA0NDkwIiwibG9naW5NZXRob2QiOiJwaG9uZSIsInNpZ24iOiIxZjJhNGU0YzdjODM5MDFjNjlkMmI0OTEzMTMzNDZkZjU1NmFkYTY5NzkwZmQ5MDU3NGM1ODgzZTc4YzdlOTc2N2FhZmY4MmUyYmU1Y2Y5ZDJhZTg1YmQzNTgzMDZjNGMwN2Y1ZTBkYTg1MDgyZTZiM2VlODhiNDEzNmE1Y2VlZiIsImRldmljZUlkIjoiNTAwNDU3ODZFNEVDNEQ0OTRDNTNGMEJDQzEzMjJBQzgiLCJyYW5kb20iOiIwLjg4NjY5NTEyMjQ0ODkxNzUgOikiLCJ0aW1lc3RhbXAiOiIyMDIzLTA4LTA3IDE4OjM4OjMyIiwiYXBwVmVyc2lvbiI6IjQuMjguMCIsInN5c0lkIjoxLCJsYW5nIjoicnUifQ=="}], "referrerPolicy": "strict-origin-when-cross-origin", "url": "https://clientsapi02.pb06e2-resources.com/session/login/createProcess"}, "requestId": "13104.152", "timestamp": 9937.757038, "type": "XHR", "wallTime": 1691433512.920385}
+}
